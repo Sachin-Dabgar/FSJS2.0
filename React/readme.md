@@ -14,4 +14,4 @@
 
 ## 7 [Todo App Redux Toolkit](https://vasu-todo-app-redux-toolkit.netlify.app/)
 
-## 8 [CRUD With Redux Toolkit](https://crud-with-redux-toolkit.netlify.app/)
+## 8 [CRUD With Redux Toolkit](https://sachin-dabgar-fsjs-crudreduxtoolkit.netlify.app/)

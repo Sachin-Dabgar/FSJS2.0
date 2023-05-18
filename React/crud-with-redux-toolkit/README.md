@@ -1,8 +1,4 @@
-﻿# CRUD APP WITH REDUX-TOOLKIT
-
-Live Site URL: [Visit here 🚀 ](https://hear-it.netlify.app/)
-
-### Development
+﻿### Development
 
 Install dependencies:
 
@@ -30,11 +26,7 @@ In this project, you can run the following scripts:
 
 ### Built with
 
-- ReactJS
-- Redux Toolkit
-- React Router
-- TailwindCSS
-
-### Connect With Me
-
-- LinkedIn - [Vasu K.](https://www.linkedin.com/in/vasu-k-8069201b0/)
+-   ReactJS
+-   Redux Toolkit
+-   React Router
+-   TailwindCSS
