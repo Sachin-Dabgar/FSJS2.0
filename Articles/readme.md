@@ -41,15 +41,3 @@ In this article I have explained,
 [JavaScript Array Methods](https://sachin132520.hashnode.dev/javascript-array-methods)
 
 ---
-
-To Follow and Know more about me, you can check My Social Media Handles :
-
-## My Social Media Handles :
-
-[![Personal Website](https://sachindabgar.netlify.app/)]
-
-[![GitHub](https://github.com/Sachin-Dabgar)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect%20With%20Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-dabgar-08b356179/)
-
-[![Hashnode](https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sachin132520.hashnode.dev/)
