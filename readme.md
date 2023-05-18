@@ -10,7 +10,7 @@ To know more about me, you can check My Social Media Handles :
 
 ## My Social Media Handles :
 
-[![personal website](https://img.shields.io/website)](https://sachindabgar.netlify.app/)
+[![personal website](https://img.shields.io/website?down_color=lightgrey&down_message=Go%20To%20My%20Personal%20Website&up_color=white&up_message=Go%20To%20My%20Personal%20Website&url=https%3A%2F%2Fsachindabgar.netlify.app%2F)](https://sachindabgar.netlify.app/)
 
 [![GitHub](https://img.shields.io/badge/github-Fork%20Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin-Dabgar)
 
