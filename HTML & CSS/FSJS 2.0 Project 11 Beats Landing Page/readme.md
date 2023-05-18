@@ -4,15 +4,15 @@
 
 # Beats Website Landing Page
 
-A landing page designed using pure HTML & CSS as part of **[iNeuron](https://ineuron.ai/ 'iNeuron')** assignment.
+A landing page designed using pure HTML & CSS as part of **[iNeuron](https://ineuron.ai/ "iNeuron")** assignment.
 
 ### Skills Gained :
 
-- Background-Image Positioning
-- CSS Positions
-- Flex-box
-- CSS Selectors
+-   Background-Image Positioning
+-   CSS Positions
+-   Flex-box
+-   CSS Selectors
 
-### Output :
+### Live Link :
 
-[![Output Image](./output.png)](https://vasu-beats-landing-page.netlify.app/)
+**[https://sachin-dabgar-project11.netlify.app/](https://sachin-dabgar-project11.netlify.app/)**
