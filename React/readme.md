@@ -1,6 +1,6 @@
 # Project Live Links:
 
-## 1 [Todo List](https://vasu-todo-list-react-app.netlify.app/)
+## 1 [Todo List](https://sachin-dabgar-fsjs-todoappreact.netlify.app/)
 
 ## 2 [Rock Paper Scissor](https://sachin-dabgar-fsjs-rockpaperscissor.netlify.app/)
 
