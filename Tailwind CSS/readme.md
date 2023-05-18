@@ -1,5 +1,3 @@
-# Tailwind CSS Projects
+# Tailwind CSS Project
 
-## [VS Code Clone](https://vasu-vs-code-clone.netlify.app/)
-
-## [Acme Rockets](https://acme-rockets-vasu.netlify.app/)
+## [VS Code Clone](https://sachin-dabgar-fsjs-vscodeuiclone.netlify.app/)
