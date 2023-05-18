@@ -10,6 +10,4 @@
 
 ## 5 [React Router Project-1](https://sachin-dabgar-fsja-multiroute.netlify.app/)
 
-## 6 [Todo App Redux Toolkit](https://vasu-todo-app-redux-toolkit.netlify.app/)
-
-## 7 [CRUD With Redux Toolkit](https://sachin-dabgar-fsjs-crudreduxtoolkit.netlify.app/)
+## 6 [CRUD With Redux Toolkit](https://sachin-dabgar-fsjs-crudreduxtoolkit.netlify.app/)
