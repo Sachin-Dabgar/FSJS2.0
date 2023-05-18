@@ -1,11 +1,3 @@
-# Namaste Viewer
-
-I am <h1 style="color:orange; text-shadow: 0 0 3px #FF0000">Sachin Dabgar</h1> I am currently enrolled in **[iNeuron](https://ineuron.ai/ "iNeuron")'s [Full Stack JavaScript Bootcamp 2.0](https://ineuron.ai/course/Full-Stack-JavaScript-Bootcamp-2.0 "FSJS 2.0")** course, which is undertaken By **[Hitesh Choudhary](https://hiteshchoudhary.com/ "Hitesh Choudhary")** Sir.
-
-### As a Part of this course I Have written some articles Regarding Web Development, You Can Check them out Here.
-
----
-
 ## **1. Introduction to Web and HTML**
 
 ### **Have an idea about web & html**
