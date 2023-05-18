@@ -10,14 +10,10 @@ To know more about me, you can check My Social Media Handles :
 
 ## My Social Media Handles :
 
-[![GitHub](https://img.shields.io/badge/github-Fork%20Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreenivasulu-Kalluru)
+[![personal website]](https://sachindabgar.netlify.app/)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect%20With%20Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-k-8069201b0)
+[![GitHub](https://img.shields.io/badge/github-Fork%20Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin-Dabgar)
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vasuk24.hashnode.dev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect%20With%20Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-dabgar-08b356179/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iam_vs24/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Follow%20Me-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/vasu.kalluru24)
-
-[![Twitter](https://img.shields.io/badge/Twitter-Tweet%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vasuk24)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sachin132520)
