@@ -2,7 +2,7 @@
 
 ## 1 [Todo List](https://vasu-todo-list-react-app.netlify.app/)
 
-## 2 [Rock Paper Scissor](https://vasu-rock-paper-scissor.netlify.app/)
+## 2 [Rock Paper Scissor](https://sachin-dabgar-fsjs-rockpaperscissor.netlify.app/)
 
 ## 3 [Meal DB API App](https://sachin-dabgar-fsjs-mealdb.netlify.app/)
 
