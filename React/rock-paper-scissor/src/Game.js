@@ -12,24 +12,6 @@ const Game = () => {
     const [result, setResult] = useState(null);
     const [score, setScore] = useState({ player: 0, computer: 0, draw: 0 });
 
-    useEffect(() => {
-        if (playerChoice) {
-            generateComputerChoice();
-            determineResult();
-        }
-    }, [playerChoice]);
-
-    const handlePlayerChoice = (choice) => {
-        setPlayerChoice(choice);
-    };
-
-    const generateComputerChoice = () => {
-        const choices = ["rock", "paper", "scissors"];
-        const randomIndex = Math.floor(Math.random() * 3);
-        const choice = choices[randomIndex];
-        setComputerChoice(choice);
-    };
-
     const determineResult = () => {
         if (playerChoice === computerChoice) {
             setResult("It's a draw!");
@@ -54,6 +36,25 @@ const Game = () => {
                 computer: prevScore.computer + 1,
             }));
         }
+    };
+
+    useEffect(() => {
+        if (playerChoice) {
+            generateComputerChoice();
+            determineResult();
+        }
+        // eslint-disable-next-line
+    }, [playerChoice]);
+
+    const handlePlayerChoice = (choice) => {
+        setPlayerChoice(choice);
+    };
+
+    const generateComputerChoice = () => {
+        const choices = ["rock", "paper", "scissors"];
+        const randomIndex = Math.floor(Math.random() * 3);
+        const choice = choices[randomIndex];
+        setComputerChoice(choice);
     };
 
     return (
