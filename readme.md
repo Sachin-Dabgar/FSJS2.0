@@ -1,6 +1,6 @@
-# Hey There!
+# Namaste Viewer!
 
-I am <h1 style="color:orange; text-shadow: 0 0 3px #FF0000">Sachin Dabgar</h1> I am currently enrolled in **[iNeuron](https://ineuron.ai/ "iNeuron")'s [Full Stack JavaScript Bootcamp 2.0](https://ineuron.ai/course/Full-Stack-JavaScript-Bootcamp-2.0 "FSJS 2.0")** course, which is undertaken By **[Hitesh Choudhary](https://hiteshchoudhary.com/ "Hitesh Choudhary")** Sir.
+<h1 style="color:orange; text-shadow: 0 0 3px #FF0000">This is Sachin Dabgar</h1> I am currently enrolled in **[iNeuron](https://ineuron.ai/ "iNeuron")'s [Full Stack JavaScript Bootcamp 2.0](https://ineuron.ai/course/Full-Stack-JavaScript-Bootcamp-2.0 "FSJS 2.0")** course, which is undertaken By **[Hitesh Choudhary](https://hiteshchoudhary.com/ "Hitesh Choudhary")** Sir.
 
 ### Please checkout each folder for assignments and it's live links and code.
 
