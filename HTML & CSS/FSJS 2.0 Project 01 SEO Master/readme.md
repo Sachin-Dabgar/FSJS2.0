@@ -13,4 +13,4 @@ A landing page designed using pure HTML & CSS as part of **[iNeuron](https://ine
 
 ### Live Link :
 
-**[[sachin-dabgar-project1.netlify.app](sachin-dabgar-project1.netlify.app)**
+**[sachin-dabgar-project1.netlify.app](sachin-dabgar-project1.netlify.app)**
