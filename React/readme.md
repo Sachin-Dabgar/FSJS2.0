@@ -4,7 +4,7 @@
 
 ## 2 [Rock Paper Scissor](https://vasu-rock-paper-scissor.netlify.app/)
 
-## 3 [Meal DB API App](https://vasu-meal-db-api.netlify.app/)
+## 3 [Meal DB API App](https://sachin-dabgar-fsjs-mealdb.netlify.app/)
 
 ## 4 [Pokemon App](https://vasu-pokemon.netlify.app/)
 
