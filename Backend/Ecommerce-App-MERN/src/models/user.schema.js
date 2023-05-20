@@ -3,6 +3,7 @@ import AuthRoles from "../utils/authRoles";
 import bcrypt from "bcryptjs";
 import JWT from "jsonwebtoken";
 import config from "../config";
+import crypto from "crypto";
 
 const userSchema = new mongoose.Schema(
     {
@@ -58,6 +59,19 @@ userSchema.methods = {
         JWT.sign({ _id: this._id }, config.JWT_SECRET, {
             expiresIn: config.JWT_EXPIRY,
         });
+    },
+    // generate forgotPasswordToken
+    generateForgotPasswordToken: function () {
+        const forgotToken = crypto.randomBytes(20).toString("hex");
+        // just to encrypt the token genereated by crypto
+        this.forgotPasswordToken = crypto
+            .createHash("sha256")
+            .update(forgotToken)
+            .digest("hex");
+
+        // time for token to expire
+        this.forgotPasswordExpiry = Date.now() + 20 * 60 * 1000;
+        return forgotToken;
     },
 };
 
